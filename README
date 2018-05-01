@@ -1,0 +1,5 @@
+platform: windows 7 x64
+Python: Python3.4
+
+usage: 
+     unpack && modify the vimrc
